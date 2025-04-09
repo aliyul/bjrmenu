@@ -1,5 +1,5 @@
  // Cek URL saat ini dan sesuaikan dengan kondisi yang diinginkan
-const urlMappingMenu = {
+const urlMappingMenuKons = {
 "https://www.betonjayareadymix.com/p/produk-konstruksi.html": "Produk Konstruksi",
   "https://www.betonjayareadymix.com/p/produk-interior-furniture.html": "Produk Interior Furniture",
   "https://www.betonjayareadymix.com/p/material-konstruksi.html": "Material Konstruksi",
