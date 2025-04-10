@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", function() {
         removeCondition('ProdukKonsSaluran');
         removeCondition('ProdukKonsPembatas');
         removeCondition('JasaKonsPembatas');
-        removeCondition('JasaKonsPerbaikanSub');
+        removeCondition('JasaKonsPerbaikan');
 	       removeCondition('JasaKons');
         removeCondition('JasaKonsSub');
         pageNameMenuKons.textContent = urlMappingMenuKons[cleanUrlTopikKons];
