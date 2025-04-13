@@ -5,7 +5,15 @@ const urlMappingMenuKons = {
   "https://www.betonjayareadymix.com/p/material-konstruksi.html": "Material Konstruksi",
   "https://www.betonjayareadymix.com/p/jasa-konstruksi.html": "Jasa Konstruksi",
   "https://www.betonjayareadymix.com/p/jasa-interior.html": "Jasa Interior",
-  "https://www.betonjayareadymix.com/p/hubungi-kami.html": "Hubungi Kami"
+  "https://www.betonjayareadymix.com/p/hubungi-kami.html": "Hubungi Kami",
+  "https://www.betonjayareadymix.com/p/disclaimer.html": "Disclaimer",
+  "https://www.betonjayareadymix.com/p/privacy-policy.html": "Privacy Policy",
+  "https://www.betonjayareadymix.com/p/terms-of-service.html": "Terms Of Service",
+  "https://www.betonjayareadymix.com/p/useful-links.html": "Useful Links",
+  "https://www.betonjayareadymix.com/p/about.html": "About",
+  "https://www.betonjayareadymix.com/p/sitemap.html": "Sitemap"
+
+	
 };
 
 // Menyimpan elemen yang dihapus dalam variabel
