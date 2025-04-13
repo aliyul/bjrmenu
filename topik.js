@@ -69,6 +69,7 @@ document.addEventListener("DOMContentLoaded", function() {
         //removeCondition('ProdukKonsPembatasPost');
         removeCondition('JasaKonsPembatas');
         removeCondition('JasaKonsPondasiTanah');
+        removeCondition('JasaKonsJalanPerkerasan');
         removeCondition('JasaKonsPerbaikan');
         removeCondition('JasaKonsFinishing');
 	removeCondition('JasaKonsStruktur');
