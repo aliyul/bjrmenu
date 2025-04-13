@@ -58,13 +58,15 @@ document.addEventListener("DOMContentLoaded", function() {
            // hapus elemen id DIV Lain
          removeCondition('materialKonsReadymix');
         removeCondition('ProdukKonsSaluran');
-        removeCondition('ProdukKonsPembatas');
+        //removeCondition('ProdukKonsPembatasPost');
         removeCondition('JasaKonsPembatas');
+        removeCondition('JasaKonsPondasiTanah');
         removeCondition('JasaKonsPerbaikan');
         removeCondition('JasaKonsFinishing');
 	removeCondition('JasaKonsStruktur');
 	removeCondition('JasaKons');
         removeCondition('JasaKonsSub');
+	    
         pageNameMenuKons.textContent = urlMappingMenuKons[cleanUrlTopikKons];
     }
 
