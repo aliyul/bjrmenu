@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function() {
         restoreCondition('MenuKons');
         //restoreCondition('JasaChippingBeton');
            // hapus elemen id DIV Lain
-         removeCondition('materialKonsReadymix');
+         removeCondition('MaterialKons');
         removeCondition('ProdukKonsSaluran');
         //removeCondition('ProdukKonsPembatasPost');
         removeCondition('JasaKonsPembatas');
