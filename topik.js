@@ -2,6 +2,7 @@
 const urlMappingMenuKons = {
 "https://www.betonjayareadymix.com/p/produk-konstruksi.html": "Produk Konstruksi",
   "https://www.betonjayareadymix.com/p/produk-interior.html": "Produk Interior",
+  "https://www.betonjayareadymix.com/p/produk-kitchen-set.html": "Produk Kitchen Set",
   "https://www.betonjayareadymix.com/p/material-konstruksi.html": "Material Konstruksi",
   "https://www.betonjayareadymix.com/p/jasa-konstruksi.html": "Jasa Konstruksi",
   //"https://www.betonjayareadymix.com/p/jasa-interior.html": "Jasa Interior",
