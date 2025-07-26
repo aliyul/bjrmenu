@@ -83,7 +83,6 @@ document.addEventListener("DOMContentLoaded", function() {
         pageNameMenuKons.textContent = urlMappingMenuKons[cleanUrlTopikKons];
     }
     // ✅ Tambahkan logika penyesuaian judul halaman ke elemen ID tertentu
-    <script>
   const title = document.title.replace(" - beton jaya readymix", "").trim();
   const targets = document.querySelectorAll(".judulHalamanOtomatis");
   targets.forEach(el => el.textContent = title);
