@@ -82,9 +82,32 @@ document.addEventListener("DOMContentLoaded", function() {
 	    
         pageNameMenuKons.textContent = urlMappingMenuKons[cleanUrlTopikKons];
     }
-    // ✅ Tambahkan logika penyesuaian judul halaman ke elemen ID tertentu
-  const title = document.title.replace(" - beton jaya readymix", "").trim();
-  const targets = document.querySelectorAll(".judulHalamanOtomatis");
-  targets.forEach(el => el.textContent = title);
+
+ // ✅ Tambahkan JSON-LD Breadcrumb otomatis
+   if (urlMappingMenuKons[cleanUrlTopikKons]) {
+       const jsonLDBreadcrumb = {
+           "@context": "https://schema.org",
+           "@type": "BreadcrumbList",
+           "itemListElement": [
+	    {
+	      "@type": "ListItem",
+	      "position": 1,
+	      "name": "Beton Jaya Readymix",
+	      "item": "https://www.betonjayareadymix.com/"
+	    },
+               {
+                   "@type": "ListItem",
+                   "position": 2,
+                   "name": urlMappingMenuKons[cleanUrlTopikKons],
+                   "item": cleanUrlTopikKons
+               }
+           ]
+       };
+
+       const script = document.createElement('script');
+       script.type = 'application/ld+json';
+       script.text = JSON.stringify(jsonLDBreadcrumb);
+       document.head.appendChild(script);
+   }
 
    });
