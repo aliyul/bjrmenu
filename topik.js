@@ -8,6 +8,7 @@ const urlMappingMenuKons = {
   //"https://www.betonjayareadymix.com/p/jasa-interior.html": "Jasa Interior",
   "https://www.betonjayareadymix.com/p/jasa-desain-interior.html": "Jasa Desain Interior",
   "https://www.betonjayareadymix.com/p/hubungi-kami.html": "Hubungi Kami",
+  "https://www.betonjayareadymix.com/p/portofolio-proyek.html": "Portofolio Proyek",
   "https://www.betonjayareadymix.com/p/disclaimer.html": "Disclaimer",
   "https://www.betonjayareadymix.com/p/privacy-policy.html": "Privacy Policy",
   "https://www.betonjayareadymix.com/p/terms-of-service.html": "Terms Of Service",
