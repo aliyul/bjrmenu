@@ -19,6 +19,7 @@ const urlMappingMenuKons = {
 	
 };
 const urlMappingMenuKonsUtama = {
+"https://www.betonjayareadymix.com/": "Home",
 "https://www.betonjayareadymix.com/p/produk-konstruksi.html": "Produk Konstruksi",
   "https://www.betonjayareadymix.com/p/produk-interior.html": "Produk Interior",
   //"https://www.betonjayareadymix.com/p/produk-kitchen-set.html": "Produk Kitchen Set",
