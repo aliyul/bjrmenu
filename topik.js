@@ -209,7 +209,8 @@ document.addEventListener("DOMContentLoaded", function() {
     if (!MenuKons) {
         console.error("elemen Id MenuKons kondisi terhapus");
         return;
-    }
+    }  
+
       (async function runHybridDateModified() {
   try {
 
