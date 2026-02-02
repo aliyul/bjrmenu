@@ -277,7 +277,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // =============================
 
     // ✔ MANUAL
-     await loadEvergreenScript("2026-01-01");
+     await loadEvergreenScript("2026-01-01T10:30:00+07:00");
 
     // ✔ AUTO (EVERGREEN)
     //await loadEvergreenScript();
