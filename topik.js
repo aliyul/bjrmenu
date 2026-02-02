@@ -233,7 +233,7 @@ document.addEventListener("DOMContentLoaded", function() {
           } else if (Date.now() - start > timeout) {
             reject(new Error("detectEvergreen timeout"));
           } else {
-            setTimeout(check, 50);
+            setTimeout(check, 100);
           }
         })();
       });
