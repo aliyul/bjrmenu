@@ -7,6 +7,8 @@ const urlMappingMenuKons = {
   "https://www.betonjayareadymix.com/p/jasa-konstruksi.html": "Jasa Konstruksi",
   //"https://www.betonjayareadymix.com/p/jasa-interior.html": "Jasa Interior",
   "https://www.betonjayareadymix.com/p/jasa-desain-interior.html": "Jasa Desain Interior",
+   "https://www.betonjayareadymix.com/p/sewa-alat-konstruksi.html": "Sewa Alat Konstruksi",  // TYPE: PILLAR
+	
   "https://www.betonjayareadymix.com/p/hubungi-kami.html": "Hubungi Kami",
   "https://www.betonjayareadymix.com/p/portofolio.html": "Portofolio",
   "https://www.betonjayareadymix.com/p/disclaimer.html": "Disclaimer",
@@ -26,7 +28,8 @@ const urlMappingMenuKonsUtama = {
   "https://www.betonjayareadymix.com/p/material-konstruksi.html": "Material Konstruksi",
   "https://www.betonjayareadymix.com/p/jasa-konstruksi.html": "Jasa Konstruksi",
   //"https://www.betonjayareadymix.com/p/jasa-interior.html": "Jasa Interior",
-  "https://www.betonjayareadymix.com/p/jasa-desain-interior.html": "Jasa Desain Interior"
+  "https://www.betonjayareadymix.com/p/jasa-desain-interior.html": "Jasa Desain Interior",
+   "https://www.betonjayareadymix.com/p/sewa-alat-konstruksi.html": "Sewa Alat Konstruksi"  // TYPE: PILLAR
 };
 
 
