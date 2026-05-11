@@ -1054,7 +1054,7 @@ document.addEventListener("DOMContentLoaded", function() {
 		 // Cukup seperti ini, Entity Type tidak perlu
 generateBreadcrumbtopik(
     urlMappingMenuKonsUtama,
-    cleanUrlJasaKons,
+    cleanUrlTopikKons,
     [
         { name: 'Beton Jaya Readymix', url: 'https://www.betonjayareadymix.com/' }
     ]
