@@ -1056,7 +1056,7 @@ generateBreadcrumbtopik(
     urlMappingMenuKonsUtama,
     cleanUrlTopikKons,
     [
-        { name: 'Beton Jaya Readymix', url: 'https://www.betonjayareadymix.com/' }
+        //{ name: 'Beton Jaya Readymix', url: 'https://www.betonjayareadymix.com/' }
     ]
     // Entity Type dihapus, biar auto-detect
 );
