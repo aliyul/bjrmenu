@@ -21,15 +21,17 @@ const urlMappingMenuKons = {
 	
 };
 const urlMappingMenuKonsUtama = {
-//"https://www.betonjayareadymix.com/": "Home",
 "https://www.betonjayareadymix.com/p/produk-konstruksi.html": "Produk Konstruksi",
   "https://www.betonjayareadymix.com/p/produk-interior.html": "Produk Interior",
-  //"https://www.betonjayareadymix.com/p/produk-kitchen-set.html": "Produk Kitchen Set",
   "https://www.betonjayareadymix.com/p/material-konstruksi.html": "Material Konstruksi",
   "https://www.betonjayareadymix.com/p/jasa-konstruksi.html": "Jasa Konstruksi",
   "https://www.betonjayareadymix.com/p/jasa-desain.html": "Jasa Desain",
+   "https://www.betonjayareadymix.com/p/sewa-alat-konstruksi.html": "Sewa Alat Konstruksi"
+	
+//"https://www.betonjayareadymix.com/": "Home",
 //  "https://www.betonjayareadymix.com/p/jasa-desain-interior.html": "Jasa Desain Interior",
-   "https://www.betonjayareadymix.com/p/sewa-alat-konstruksi.html": "Sewa Alat Konstruksi"  // TYPE: PILLAR
+//"https://www.betonjayareadymix.com/p/produk-kitchen-set.html": "Produk Kitchen Set",
+
 };
 
 /**
